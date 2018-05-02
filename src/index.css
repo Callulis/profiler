@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+
+.carousel-inner > .item > img {
+  max-width:640px;
+  max-height:360px;
+}
+
+.carousel{
+	background-color: #3a3a3a;
+}
+
+.navbar{
+	margin-bottom:0;
+}
